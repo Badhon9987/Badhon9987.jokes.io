@@ -1,0 +1,13 @@
+body{
+    font-family: 'Katibeh', cursive;
+    background-color: rebeccapurple;
+    font-size: x-large;
+    color: seashell;
+}
+.btn{
+     
+    color: black;
+    font-size: 12px;
+    background-color: crimson;
+    border-radius: 10px;
+}
